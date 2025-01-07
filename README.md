@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaeF41
-- 👀 I’m interested in Art, Philosophy and Politics
-- 🌱 I’m currently learning a lot, open to all adventouros and nice people
+- Hit me up or have fun looking around :)
 
 <!---
 MaeF41/MaeF41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
