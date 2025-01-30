@@ -1,22 +1,5 @@
 # Hi, I'm MaeF41 
 
-<pre>
-                             
- ▄▄▄       ██░ ██  ▒█████  ▓██   ██▓
-▒████▄    ▓██░ ██▒▒██▒  ██▒ ▒██  ██▒
-▒██  ▀█▄  ▒██▀▀██░▒██░  ██▒  ▒██ ██░
-░██▄▄▄▄██ ░▓█ ░██ ▒██   ██░  ░ ▐██▓░
- ▓█   ▓██▒░▓█▒░██▓░ ████▓▒░  ░ ██▒▓░
- ▒▒   ▓▒█░ ▒ ░░▒░▒░ ▒░▒░▒░    ██▒▒▒ 
-  ▒   ▒▒ ░ ▒ ░▒░ ░  ░ ▒ ▒░  ▓██ ░▒░ 
-  ░   ▒    ░  ░░ ░░ ░ ░ ▒   ▒ ▒ ░░  
-      ░  ░ ░  ░  ░    ░ ░   ░ ░     
-                            ░ ░       
-</pre>
-
-## About Me:
-
-
 - I love to solve issues and coding is just a tool to help me
 - Coding for the long run means to protect myself to not to loose the curiosity
 - Thai box, games, socializing and theatre (or art in general) is my way to wind off
@@ -24,7 +7,7 @@
 - Aspiring Full Stack developer (I am a frontend developer, but I have some shallow backend experience).- Trainer @icodeguru(for data structures and algorithm)
 
 
-## I have touched these:
+## I have touched and worked with these:
 
 <table><tr><td valign="top" width="25%">
 
